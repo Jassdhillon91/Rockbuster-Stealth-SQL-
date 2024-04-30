@@ -18,3 +18,4 @@ Rockbuster Data Set - This dataset was created by CareerFoundry for use in this 
 The data was analyzed using a relational database management system and PostgreSQL.
 # Visualizations
 All visualizations were created in Tableau Public and may be viewed in the attached Tableau Workbook.
+https://public.tableau.com/app/profile/jasmeet.singh2441/vizzes
